@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2A2D26A21A5AAB1200684C32 /* readme.docx in Resources */ = {isa = PBXBuildFile; fileRef = 2A2D26A11A5AAB1200684C32 /* readme.docx */; };
 		2AFDB5651A3703320083D612 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2AFDB5641A3703320083D612 /* main.m */; };
 		2AFDB5681A3703320083D612 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 2AFDB5671A3703320083D612 /* AppDelegate.m */; };
 		2AFDB56B1A3703320083D612 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2AFDB56A1A3703320083D612 /* ViewController.m */; };
@@ -27,6 +28,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2A2D26A11A5AAB1200684C32 /* readme.docx */ = {isa = PBXFileReference; lastKnownFileType = file; path = readme.docx; sourceTree = "<group>"; };
 		2AFDB55F1A3703320083D612 /* Evatro Sorular.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Evatro Sorular.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2AFDB5631A3703320083D612 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2AFDB5641A3703320083D612 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -96,6 +98,7 @@
 		2AFDB5621A3703320083D612 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				2A2D26A11A5AAB1200684C32 /* readme.docx */,
 				2AFDB5631A3703320083D612 /* Info.plist */,
 				2AFDB5641A3703320083D612 /* main.m */,
 			);
@@ -199,6 +202,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2A2D26A21A5AAB1200684C32 /* readme.docx in Resources */,
 				2AFDB56E1A3703320083D612 /* Main.storyboard in Resources */,
 				2AFDB5731A3703320083D612 /* LaunchScreen.xib in Resources */,
 				2AFDB5701A3703320083D612 /* Images.xcassets in Resources */,
@@ -414,6 +418,7 @@
 				2AFDB5841A3703320083D612 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2AFDB5851A3703320083D612 /* Build configuration list for PBXNativeTarget "Evatro SorularTests" */ = {
 			isa = XCConfigurationList;
@@ -422,6 +427,7 @@
 				2AFDB5871A3703320083D612 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
