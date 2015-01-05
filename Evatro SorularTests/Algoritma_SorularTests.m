@@ -9,11 +9,11 @@
 #import <UIKit/UIKit.h>
 #import <XCTest/XCTest.h>
 
-@interface Evatro_SorularTests : XCTestCase
+@interface Algoritma_SorularTests : XCTestCase
 
 @end
 
-@implementation Evatro_SorularTests
+@implementation Algoritma_SorularTests
 
 - (void)setUp {
     [super setUp];

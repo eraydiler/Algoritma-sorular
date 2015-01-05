@@ -14,7 +14,7 @@
 		2AFDB56E1A3703320083D612 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2AFDB56C1A3703320083D612 /* Main.storyboard */; };
 		2AFDB5701A3703320083D612 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2AFDB56F1A3703320083D612 /* Images.xcassets */; };
 		2AFDB5731A3703320083D612 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2AFDB5711A3703320083D612 /* LaunchScreen.xib */; };
-		2AFDB57F1A3703320083D612 /* Evatro_SorularTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2AFDB57E1A3703320083D612 /* Evatro_SorularTests.m */; };
+		2AFDB57F1A3703320083D612 /* Algoritma_SorularTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2AFDB57E1A3703320083D612 /* Algoritma_SorularTests.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -29,7 +29,7 @@
 
 /* Begin PBXFileReference section */
 		2A2D26A11A5AAB1200684C32 /* readme.docx */ = {isa = PBXFileReference; lastKnownFileType = file; path = readme.docx; sourceTree = "<group>"; };
-		2AFDB55F1A3703320083D612 /* Evatro Sorular.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Evatro Sorular.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2AFDB55F1A3703320083D612 /* Algoritma Sorular.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Algoritma Sorular.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2AFDB5631A3703320083D612 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2AFDB5641A3703320083D612 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		2AFDB5661A3703320083D612 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -39,9 +39,9 @@
 		2AFDB56D1A3703320083D612 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		2AFDB56F1A3703320083D612 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		2AFDB5721A3703320083D612 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
-		2AFDB5781A3703320083D612 /* Evatro SorularTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Evatro SorularTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2AFDB5781A3703320083D612 /* Algoritma SorularTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Algoritma SorularTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2AFDB57D1A3703320083D612 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		2AFDB57E1A3703320083D612 /* Evatro_SorularTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Evatro_SorularTests.m; sourceTree = "<group>"; };
+		2AFDB57E1A3703320083D612 /* Algoritma_SorularTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Algoritma_SorularTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,8 +65,8 @@
 		2AFDB5561A3703320083D612 = {
 			isa = PBXGroup;
 			children = (
-				2AFDB5611A3703320083D612 /* Evatro Sorular */,
-				2AFDB57B1A3703320083D612 /* Evatro SorularTests */,
+				2AFDB5611A3703320083D612 /* Algoritma Sorular */,
+				2AFDB57B1A3703320083D612 /* Algoritma SorularTests */,
 				2AFDB5601A3703320083D612 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -74,13 +74,13 @@
 		2AFDB5601A3703320083D612 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				2AFDB55F1A3703320083D612 /* Evatro Sorular.app */,
-				2AFDB5781A3703320083D612 /* Evatro SorularTests.xctest */,
+				2AFDB55F1A3703320083D612 /* Algoritma Sorular.app */,
+				2AFDB5781A3703320083D612 /* Algoritma SorularTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		2AFDB5611A3703320083D612 /* Evatro Sorular */ = {
+		2AFDB5611A3703320083D612 /* Algoritma Sorular */ = {
 			isa = PBXGroup;
 			children = (
 				2AFDB5661A3703320083D612 /* AppDelegate.h */,
@@ -92,6 +92,7 @@
 				2AFDB5711A3703320083D612 /* LaunchScreen.xib */,
 				2AFDB5621A3703320083D612 /* Supporting Files */,
 			);
+			name = "Algoritma Sorular";
 			path = "Evatro Sorular";
 			sourceTree = "<group>";
 		};
@@ -105,12 +106,13 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		2AFDB57B1A3703320083D612 /* Evatro SorularTests */ = {
+		2AFDB57B1A3703320083D612 /* Algoritma SorularTests */ = {
 			isa = PBXGroup;
 			children = (
-				2AFDB57E1A3703320083D612 /* Evatro_SorularTests.m */,
+				2AFDB57E1A3703320083D612 /* Algoritma_SorularTests.m */,
 				2AFDB57C1A3703320083D612 /* Supporting Files */,
 			);
+			name = "Algoritma SorularTests";
 			path = "Evatro SorularTests";
 			sourceTree = "<group>";
 		};
@@ -125,9 +127,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		2AFDB55E1A3703320083D612 /* Evatro Sorular */ = {
+		2AFDB55E1A3703320083D612 /* Algoritma Sorular */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2AFDB5821A3703320083D612 /* Build configuration list for PBXNativeTarget "Evatro Sorular" */;
+			buildConfigurationList = 2AFDB5821A3703320083D612 /* Build configuration list for PBXNativeTarget "Algoritma Sorular" */;
 			buildPhases = (
 				2AFDB55B1A3703320083D612 /* Sources */,
 				2AFDB55C1A3703320083D612 /* Frameworks */,
@@ -137,14 +139,14 @@
 			);
 			dependencies = (
 			);
-			name = "Evatro Sorular";
+			name = "Algoritma Sorular";
 			productName = "Evatro Sorular";
-			productReference = 2AFDB55F1A3703320083D612 /* Evatro Sorular.app */;
+			productReference = 2AFDB55F1A3703320083D612 /* Algoritma Sorular.app */;
 			productType = "com.apple.product-type.application";
 		};
-		2AFDB5771A3703320083D612 /* Evatro SorularTests */ = {
+		2AFDB5771A3703320083D612 /* Algoritma SorularTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2AFDB5851A3703320083D612 /* Build configuration list for PBXNativeTarget "Evatro SorularTests" */;
+			buildConfigurationList = 2AFDB5851A3703320083D612 /* Build configuration list for PBXNativeTarget "Algoritma SorularTests" */;
 			buildPhases = (
 				2AFDB5741A3703320083D612 /* Sources */,
 				2AFDB5751A3703320083D612 /* Frameworks */,
@@ -155,9 +157,9 @@
 			dependencies = (
 				2AFDB57A1A3703320083D612 /* PBXTargetDependency */,
 			);
-			name = "Evatro SorularTests";
+			name = "Algoritma SorularTests";
 			productName = "Evatro SorularTests";
-			productReference = 2AFDB5781A3703320083D612 /* Evatro SorularTests.xctest */;
+			productReference = 2AFDB5781A3703320083D612 /* Algoritma SorularTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -178,7 +180,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 2AFDB55A1A3703320083D612 /* Build configuration list for PBXProject "Evatro Sorular" */;
+			buildConfigurationList = 2AFDB55A1A3703320083D612 /* Build configuration list for PBXProject "Algoritma Sorular" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -191,8 +193,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				2AFDB55E1A3703320083D612 /* Evatro Sorular */,
-				2AFDB5771A3703320083D612 /* Evatro SorularTests */,
+				2AFDB55E1A3703320083D612 /* Algoritma Sorular */,
+				2AFDB5771A3703320083D612 /* Algoritma SorularTests */,
 			);
 		};
 /* End PBXProject section */
@@ -233,7 +235,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2AFDB57F1A3703320083D612 /* Evatro_SorularTests.m in Sources */,
+				2AFDB57F1A3703320083D612 /* Algoritma_SorularTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -242,7 +244,7 @@
 /* Begin PBXTargetDependency section */
 		2AFDB57A1A3703320083D612 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 2AFDB55E1A3703320083D612 /* Evatro Sorular */;
+			target = 2AFDB55E1A3703320083D612 /* Algoritma Sorular */;
 			targetProxy = 2AFDB5791A3703320083D612 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -351,7 +353,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = "Evatro Sorular/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Algoritma Sorular";
 			};
 			name = Debug;
 		};
@@ -361,7 +363,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = "Evatro Sorular/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Algoritma Sorular";
 			};
 			name = Release;
 		};
@@ -379,8 +381,8 @@
 				);
 				INFOPLIST_FILE = "Evatro SorularTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Evatro Sorular.app/Evatro Sorular";
+				PRODUCT_NAME = "Algoritma SorularTests";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Algoritma Sorular.app/Algoritma Sorular";
 			};
 			name = Debug;
 		};
@@ -394,15 +396,15 @@
 				);
 				INFOPLIST_FILE = "Evatro SorularTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Evatro Sorular.app/Evatro Sorular";
+				PRODUCT_NAME = "Algoritma SorularTests";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Algoritma Sorular.app/Algoritma Sorular";
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		2AFDB55A1A3703320083D612 /* Build configuration list for PBXProject "Evatro Sorular" */ = {
+		2AFDB55A1A3703320083D612 /* Build configuration list for PBXProject "Algoritma Sorular" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2AFDB5801A3703320083D612 /* Debug */,
@@ -411,7 +413,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2AFDB5821A3703320083D612 /* Build configuration list for PBXNativeTarget "Evatro Sorular" */ = {
+		2AFDB5821A3703320083D612 /* Build configuration list for PBXNativeTarget "Algoritma Sorular" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2AFDB5831A3703320083D612 /* Debug */,
@@ -420,7 +422,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2AFDB5851A3703320083D612 /* Build configuration list for PBXNativeTarget "Evatro SorularTests" */ = {
+		2AFDB5851A3703320083D612 /* Build configuration list for PBXNativeTarget "Algoritma SorularTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2AFDB5861A3703320083D612 /* Debug */,
